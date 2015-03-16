@@ -1,0 +1,15 @@
+/**
+* @version   $Id: master-ie11.css 26134 2015-01-27 15:46:05Z james $
+* @author    RocketTheme http://www.rockettheme.com
+* @copyright Copyright (C) 2007 - 2015 RocketTheme, LLC
+* @license   http://www.rockettheme.com/legal/license.php RocketTheme Proprietary Use License
+*/
+
+/* Navigation */
+body .gf-menu li.parent > .item:after {top: 100%;}
+
+/* Mainbody */
+body #rt-content-top, body #rt-content-bottom {display: block;}
+
+/* Demo */
+body #rt-slideshow .rt-tobottom:hover:before {font-size: 70px !important;}

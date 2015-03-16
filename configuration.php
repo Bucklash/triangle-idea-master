@@ -15,10 +15,10 @@ class JConfig {
 	public $host = 'localhost';
 	public $user = 'root';
 	public $password = 'root';
-	public $db = 'turnerdesign';
-	public $dbprefix = 'v8b6e_';
+	public $db = 'turnerdesign-rt';
+	public $dbprefix = 'vgvaj_';
 	public $live_site = '';
-	public $secret = '0lbb62hgPM7O4RIr';
+	public $secret = '59c5YlEiWWyOawlc';
 	public $gzip = '0';
 	public $error_reporting = 'default';
 	public $helpurl = 'https://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help{major}{minor}:{keyref}';
@@ -43,7 +43,7 @@ class JConfig {
 	public $caching = '0';
 	public $cache_handler = 'file';
 	public $cachetime = '15';
-	public $MetaDesc = 'Interior Design';
+	public $MetaDesc = 'Rocket Theme Based Website';
 	public $MetaKeys = '';
 	public $MetaTitle = '1';
 	public $MetaAuthor = '1';
